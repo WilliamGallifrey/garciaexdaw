@@ -1,0 +1,6 @@
+<VirtualHost *:80>
+    ServerAdmin gugaro@example.com
+    ServerName www.examen.com
+    ServerAlias www.examen.com
+    DocumentRoot /var/www/examen
+</VirtualHost>
